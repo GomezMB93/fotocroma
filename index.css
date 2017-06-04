@@ -147,7 +147,7 @@ p{
 	margin-left: 8px;
 	transform-origin: top left;
 	clear: both;
-	transition: width 2s;
+	transition: transform 2s;
 	transition-timing-function: cubic-bezier(0.14,1.44,0.44,-0.4);
 }
 .imagen1:hover{
@@ -158,7 +158,7 @@ p{
 	float: left;
 	margin-top:50px;
 	transform-origin: top right;
-	transition: width 2s;
+	transition: transform 2s;
 	transition-timing-function: cubic-bezier(0.14,1.44,0.44,-0.4);	
 }
 .imagen2:hover{
@@ -170,7 +170,7 @@ p{
 	margin-right: 491px;
 	transform-origin: bottom right;
 	clear: both;
-	transition: width 2s;
+	transition: transform 2s;
 	transition-timing-function: cubic-bezier(0.14,1.44,0.44,-0.4);	
 }
 .imagen3:hover{
